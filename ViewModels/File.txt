@@ -1,0 +1,17 @@
+private static let fallbackWordPairs: [WordPair] = [
+    WordPair(civilian: "Kucing", undercover: "Harimau"),
+    WordPair(civilian: "Pizza", undercover: "Burger"),
+    WordPair(civilian: "Pantai", undercover: "Pulau"),
+    WordPair(civilian: "Kopi", undercover: "Teh"),
+    WordPair(civilian: "Apel", undercover: "Pir"),
+    WordPair(civilian: "Bus", undercover: "Mobil"),
+    WordPair(civilian: "Dokter", undercover: "Perawat"),
+    WordPair(civilian: "Hujan", undercover: "Salju"),
+    WordPair(civilian: "Pensil", undercover: "Pulpen"),
+    WordPair(civilian: "Hiu", undercover: "Lumba-lumba"),
+    WordPair(civilian: "Laptop", undercover: "Komputer"),
+    WordPair(civilian: "Sepak Bola", undercover: "Basket"),
+    WordPair(civilian: "Gunung", undercover: "Bukit"),
+    WordPair(civilian: "Kue", undercover: "Roti"),
+    WordPair(civilian: "Helikopter", undercover: "Pesawat")
+]

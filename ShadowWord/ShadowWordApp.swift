@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct ShadowWordApp: App {
+    @StateObject private var gameVM = GameViewModel()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(gameVM)
         }
     }
 }
